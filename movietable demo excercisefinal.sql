@@ -1,0 +1,1 @@
+SELECT * FROM gregs_list.movie_table_demo;
